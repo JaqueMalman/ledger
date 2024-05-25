@@ -1,3 +1,9 @@
+Este exercício refere-se a refatoriação da aplicação seguindo os passos descritos [aqui](https://gist.github.com/tiagogeraldi/dd1fc01db7194166a79a57cd2d5e19de)
+
+Curso: **Engenharia de Software e Modernização de Sistemas** - [Biopark](https://bioparkeducacao.com)  
+Disciplina: **Processo de modernização de software**   
+Professor: **[Tiago Andre Geraldi](https://gist.github.com/tiagogeraldi)**  
+
 # README
 
 This is a dummy Rails 7 project created as a bad example of code to be refactored.
